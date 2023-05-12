@@ -4,8 +4,10 @@ This repository contains computational supporting information for the submitted 
 ## Cluster-Model Structures
 The contents of the cluster_model directory are as follows:
 1. Two sample input files used for DFT geometry optimizations and transition states performed in Gaussian 16 Rev A.03 using CAM-B3LYP/6-31+G*/LANL2DZ.
-2. A K3VO8_carbon_capture folder containing .xyz geometries with Gibbs free energies in Ha in the comment lines used to make Figure 6b and S11. The mechanism sequence is K3VO8 + CO2 -> int1 -> ts1 -> int2 -> ts2 -> int3 -> ts3 -> int4 -> ts4 -> int5 -> K3VO5CO3 + O2.
-3. A K3VO5CO3_decomposition folder containing .xyz geometries for the two-step decomposition mechanism of the product K3VO5CO3. The sequence is K3VO5CO3 -> K3VO2O22 + CO2 -> K3VO4 + CO2 + O2.
+2. A K3VO8_carbon_capture folder containing .xyz geometries with Gibbs free energies in Ha in the comment lines used to make Figure 6b and S11. The mechanism sequence is
+K3VO8 + CO2 -> int1 -> ts1 -> int2 -> ts2 -> int3 -> ts3 -> int4 -> ts4 -> int5 -> K3VO5CO3 + O2.
+3. A K3VO5CO3_decomposition folder containing .xyz geometries for the two-step decomposition mechanism of the product K3VO5CO3. The sequence is
+K3VO5CO3 -> K3VO2O22 + CO2 -> K3VO4 + CO2 + O2.
 
 ## Solid-State Structures
 The 'solid-state' directory contains the following:
