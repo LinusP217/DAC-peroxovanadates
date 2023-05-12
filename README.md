@@ -15,7 +15,7 @@ The 'solid-state' directory contains the following:
 2. A K_based_structures folder with .cell files used for phonons, free energy, and relative stability calculations.
 3. A free_molecules folder with .cell files of CO2, O2, and H2O used for the electronic component of the solid-state reaction Free energy (the thermal correction was taken from the above-mentioned Gaussian calculations only for these three species).
 4. A materials_proj folder with various structures taken from the Materials Project used for phonons and free energy calculations.
-5. A real_reactants folder with the DFT-optimized structures of Rb3VO8*1(H2O)*2(H2O2) and Cs3VO8*3(H2O) based on the experimental .cif files.
+5. A real_reactants folder with the DFT-optimized structures of Rb3VO8_1(H2O)_2(H2O2) and Cs3VO8_3(H2O) based on the experimental .cif files.
 
 ---
 Corresponding Author: May Nyman, may.nyman@oregonstate.edu <br>
