@@ -7,7 +7,7 @@ The contents of the **cluster_model** directory are as follows:
 2. A **K3VO8_carbon_capture** folder containing .xyz geometries with Gibbs free energies in Ha in the comment lines used to make Figure 6b and S11. The mechanism sequence is <br>
 K3VO8 + CO2 &rarr; int1 &rarr; ts1 &rarr; int2 &rarr; ts2 &rarr; int3 &rarr; ts3 &rarr; int4 &rarr; ts4 &rarr; int5 &rarr; K3VO5CO3 + O2.
 3. A **K3VO5CO3_decomposition** folder containing .xyz geometries for the two-step decomposition mechanism of the product K3VO5CO3. The sequence is <br>
-K3VO5CO3 -> K3VO2O22 + CO2 -> K3VO4 + CO2 + O2.
+K3VO5CO3 &rarr; K3VO2O22 + CO2 &rarr; K3VO4 + CO2 + O2.
 
 ## Solid-State Structures
 The **solid-state** directory contains the following:
